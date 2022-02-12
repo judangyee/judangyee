@@ -5,7 +5,7 @@ Programming Language
 
   
   
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat&logo=로고&logoColor=3776AB"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-배경색?style=flat&logo=로고&logoColor=#3776AB"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/android-배경색?style=flat&logo=로고&logoColor=3776AB"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/php-배경색?style=flat&logo=로고&logoColor=3776AB"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/mySQL-배경색?style=flat&logo=로고&logoColor=3776AB"/></a>
