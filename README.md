@@ -9,6 +9,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=round-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/aws-333664?style=round-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=round-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=round-square&logo=Tensorflow&logoColor=white">
   <br><br>
