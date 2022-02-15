@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://kimain.me"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=kimain050401&fontSize=50&animation=fadeIn&fontAlignY=34"></a>
+  <a href="https://judangyee.me"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=judangdev&fontSize=50&animation=fadeIn&fontAlignY=34"></a>
   <h3>Hello this is judangyee's workspace!!!</h3>
 
   <img src="https://img.shields.io/badge/Python-3766AB?style=round-square&logo=Python&logoColor=white">
