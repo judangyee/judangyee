@@ -16,3 +16,6 @@
   <h3>My main job is treating Artificial intelligence with Python</h3>
 <a href="https://github.com/judangyee/BTC_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=BTC_prediction&theme=vue-dark" width=350px><a>
 <a href="https://github.com/judangyee/Stock_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=Stock_prediction&theme=vue-dark" width=350px><a>
+
+  <h3>I made this for temperature check which performed at every morning in school. and It is waiting to be hosted in web</h3>
+  <a href="https://github.com/judangyee/tempchecker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=tempchecker&theme=vue-dark" width=350px><a>
