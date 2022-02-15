@@ -13,4 +13,5 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=round-square&logo=Tensorflow&logoColor=white">
   <br><br>
 
-  <h3>My main job is treating Artificial intelligence with Python, but I often made a backendprogram</h3>
+  <h3>My main job is treating Artificial intelligence with Python</h3>
+<a href="https://github.com/kimain050401/green-grass-ios"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kimain050401&repo=green-grass-ios&theme=vue-dark" width=350px><a>
