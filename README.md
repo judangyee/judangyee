@@ -15,3 +15,4 @@
 
   <h3>My main job is treating Artificial intelligence with Python</h3>
 <a href="https://github.com/judangyee/BTC_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=BTC_prediction&theme=vue-dark" width=350px><a>
+<a href="https://github.com/judangyee/Stock_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=Stock_prediction&theme=vue-dark" width=350px><a>
