@@ -21,4 +21,4 @@
   <a href="https://github.com/judangyee/tempchecker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=tempchecker&theme=vue-dark" width=350px><a>
 
   <h3>Calculatin Pi with montecaelo method</h3>
-  <a href="https://github.com/judangyee/Pi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=&theme=vue-dark" width=350px><a>
+  <a href="https://github.com/judangyee/Pi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=Pi&theme=vue-dark" width=350px><a>
