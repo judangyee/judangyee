@@ -20,5 +20,5 @@
   <h3>I made this for temperature check which performed at every morning in school. and It is waiting to be hosted in web</h3>
   <a href="https://github.com/judangyee/tempchecker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=tempchecker&theme=vue-dark" width=350px><a>
 
-      <h3>Calculatin Pi wuth montecaelo method</h3>
-  <a href="https://github.com/judangyee/Pi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=tempchecker&theme=vue-dark" width=350px><a>
+  <h3>Calculatin Pi with montecaelo method</h3>
+  <a href="https://github.com/judangyee/Pi.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=&theme=vue-dark" width=350px><a>
