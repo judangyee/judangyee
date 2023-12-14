@@ -13,11 +13,12 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=round-square&logo=Tensorflow&logoColor=white">
   <br><br>
 
-  <h3>My main job is treating Artificial intelligence with Python</h3>
+  <h3>Quant Trading Project</h3>
 <a href="https://github.com/judangyee/BTC_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=BTC_prediction&theme=vue-dark" width=350px><a>
 <a href="https://github.com/judangyee/Stock_prediction.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=Stock_prediction&theme=vue-dark" width=350px><a>
 
-  <h3>I made this for temperature check which performed at every morning in school. and It is waiting to be hosted in web</h3>
+
+  <h3>Temp Checker for school at covid19 </h3>
   <a href="https://github.com/judangyee/tempchecker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=judangyee&repo=tempchecker&theme=vue-dark" width=350px><a>
 
   <h3>Calculatin Pi with montecaelo method</h3>
